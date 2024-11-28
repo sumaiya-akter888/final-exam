@@ -1,0 +1,23 @@
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.footer a{
+    text-decoration: none;
+    color: white;
+    line-height: 2.5rem;
+}
+
+.icons{
+    color: gray;
+    border:2px solid gray;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+}
+
+.icons svg{
+ margin: 8px;
+}
